@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>627249-delete3-512.png</file>
+        <file>copy-197-1172885.png</file>
+        <file>cut-icon-256-540293500.png</file>
+        <file>download.png</file>
+        <file>fonts-icons-free-icons-in-devine-icons-part-2--icon-search-engine--0.png</file>
+        <file>new-file-icon-19.jpg</file>
+        <file>open.png</file>
+        <file>Stationary_-_Outline_-_023_-_Highlight-512.png</file>
+        <file>print.png</file>
+        <file>new-file.png</file>
+    </qresource>
+</RCC>
